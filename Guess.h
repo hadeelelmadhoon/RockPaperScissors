@@ -1,11 +1,3 @@
-//
-//  Guess.h
-//  assn2
-//
-//  Created by Hadeel Elmadhoon on 2018-10-24.
-//  Copyright © 2018 Hadeel Elmadhoon. All rights reserved.
-//
-
 #pragma once
 #ifndef Guess_h
 #define Guess_h
