@@ -1,11 +1,3 @@
-//
-//  assn2.cpp
-//  assn2
-//
-//  Created by Hadeel Elmadhoon on 2018-10-24.
-//  Copyright © 2018 Hadeel Elmadhoon. All rights reserved.
-// Rock, Ppaer, Scissors Game
-
 #include <iostream>
 #include "Guess.h"
 #include "Player.h"
